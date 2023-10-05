@@ -1,0 +1,52 @@
+.layout2 {
+  margin-top: 3rem;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+.card_p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  background: #ffff;
+  border: 1px solid black;
+  box-shadow: 2px 2px 2px rgb(23, 255, 46);
+  padding: 15px 5px;
+}
+
+
+.card_load_p {
+  width: 100px;
+  background-size: 100px;
+  transition: all 0.2s;
+}
+
+.card_load_p:hover {
+  transform: translateY(-5px);
+}
+
+.card_pack {
+  margin-left: 1rem;
+}
+.card_load_extreme_title_p {
+  width: 220px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+  font-weight: 500;
+  border-radius: 5px;
+}
+
+.card_load_extreme_title_p:hover {
+  color: rgb(23, 165, 23);
+}
+
+.card_load_extreme_descripion_p {
+  width: 220px;
+  padding-left: 10px;
+  border-radius: 5px;
+}
+

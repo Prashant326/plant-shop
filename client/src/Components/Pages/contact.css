@@ -1,0 +1,66 @@
+/* Style the contact container */
+.contact-container1 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Style the contact form */
+.contact-form1 {
+  flex: 1;
+  width: 70%;
+  padding: 20px;
+  position: relative; /* Ensure proper sizing of children */
+}
+
+.contact_group {
+  padding: 1.3rem;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.contact_group .contact_input {
+  width: 100%;
+  padding: 12px 16px;
+  border-radius: 6px;
+  font-family: inherit;
+  border: 1px solid #ccc;
+  font-size: 1.1rem;
+}
+
+.contact_group .contact_input::placeholder {
+  color: #000;
+  opacity: 0.7;
+  font-size: 1.1rem;
+}
+
+.contact_group .contact_input:focus {
+  outline: none;
+  border: 2px solid rgb(19, 187, 19);
+}
+
+/* Style the map container */
+.map {
+  flex: 1;
+  width: 30%;
+  /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);*/
+  position: relative;
+  padding: 40px;
+}
+
+/* Make the map responsive */
+@media screen and (max-width: 768px) {
+  .contact-container1 {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .contact-form1,
+  .map {
+    width: 100%;
+  }
+}

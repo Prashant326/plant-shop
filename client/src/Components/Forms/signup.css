@@ -1,0 +1,63 @@
+.container_sign {
+  max-width: 530px;
+  width: 100%;
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  margin: 4rem auto;
+  border: 1px solid black;
+}
+.container_sign .form_sign {
+  padding: 2.5rem;
+}
+.form_sign .header_sign {
+  font-size: 2rem;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+.form_sign .input_sign {
+  width: 100%;
+  padding: 15px 15px;
+  font-size: 1.1rem;
+  margin-bottom: 1.3rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  outline: none;
+  border: 1px solid black;
+  border-left: 4px solid black;
+}
+.form_sign .input_sign:focus {
+  box-shadow: 1px 1px 0 rgb(26, 244, 73);
+}
+.button_sign {
+  width: 100%;
+  color: #fff;
+  background: #17ce3c;
+  font-size: 1.2rem;
+  font-weight: 500;
+  padding: 12px 15px;
+  letter-spacing: 1px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  transition: 0.4s;
+  border-radius: 5px;
+}
+.button_sign:hover {
+  background-color: rgb(16, 180, 21);
+}
+.signup_sign {
+  font-size: 17px;
+  text-align: center;
+}
+.link_sign {
+  color: #12b435;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+.link_sign:hover {
+  text-decoration: underline;
+}

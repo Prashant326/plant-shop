@@ -1,0 +1,58 @@
+
+/* Style the card container */
+.card-container_p1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Style the "SHOP NOW" button */
+.shop-now-button {
+    background-color: transparent;
+    border: 1px solid rgb(102, 101, 101);
+    font-size: 1.1rem;
+    transition: all 0.5s;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin-top: 40px;
+    color: white;
+    background-color: rgb(17, 141, 17);
+    text-align: center;
+    display: inline-block; /* Keep button inline */
+}
+
+.shop-now-button:hover {
+    box-shadow: 1px 2px 1px green;
+    border: 1px solid green;
+    color: black;
+    background-color: white; /* Change color on hover */
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* Bottom left text */
+.bottom-left.b1,
+.bottom-left.b2 {
+    position: absolute;
+    bottom: 90px;
+    left: 16px;
+	color:white;
+}
+
+.bottom-left.b3 {
+    position: absolute;
+    bottom: 90px;
+    left: 16px;
+	color:black;
+}
+
+
+

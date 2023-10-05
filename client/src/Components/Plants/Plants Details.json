@@ -1,0 +1,332 @@
+[
+  
+  {
+    "id": 1,
+    "name": "Snake Plant",
+    "image": "/Images/plants/Snake Plant.jpg",
+    "price": "120",
+    "common_name": "Snake plant, Viper's bowstring hemp, Mother-in-law's tongue",
+    "plant_type": "Evergreen perennial typically grown as a houseplant",
+    "mature_size": "6 inches to 12 feet tall in native habitat depending on variety; typically 2 feet tall when grown as a houseplant",
+    "sun_exposure": "Sun to part shade",
+    "soil_type": "Sandy, well-drained",
+    "bloom_time": "Spring",
+    "flower_color": "White",
+    "description": "Doesn't the image say it all? Yes, one of the easy growing common house plants at home is the snake plant. They are your best plant buddy because these are easy to grow, green & yellow tinge on leaves add colours to your home.You can add these types of plants as their look has a modern appeal. Being one of the easy growing plants at home, the snake plant adds an effortless beauty to any space!",
+    "care": {
+      "Soil": "They can easily thrive in poor soil conditions so soil maintenance is not a problem at all.",
+      "Light": "It can grow under any natural lighting: both low and bright",
+      "Water": "No need to water the snake plant every day in summer. That’s because the roots can turn rotten quickly. In winter, you can water once every 2 months.",
+      "Temperature_Humidity":"o flourish, snake plants prefer to live in warm temperatures between 65-90° Fahrenheit (18-32° Celsius). An indoor snake plant's ideal conditions are temperatures between 65-90° Fahrenheit (18-32° Celsius), plenty of ambient bright light, and low humidity."
+    }
+  },
+  { 
+    "id": 2,
+    "name": "Aloe Vera Plant ",
+    "image": "/Images/plants/Aloe Vera plant.jpg",
+    "price": "120",
+    "common_name": "Aloe vera",
+    "plant_type": "Succulent, perennial, herb",
+    "mature_size": "1-2.5 ft. tall, 6-12 in. wide",
+    "sun_exposure": "Partial-full",
+    "soil_type": "Sandy",
+    "bloom_time": "late winter or early spring",
+    "flower_color": "Yellow, Red",
+    "description": "The aloe vera is an excellent indoor plant for medicinal purposes, especially for detoxification, and toxins absorption. It is the most sought-after medicinal plant for health care and skincare products.The aloe vera plant for home is one of the best Indian indoor plants for your home, as the ayurvedic plant absorbs toxins from cleaning products, fuel, paints, woods, etc.",
+    "care": {
+      "Soil": "You can bring home cacti and succulent mixed soil so maximum water drains out. Use terracotta pots because they are porous and help drain water easily.",
+      "Light": "Always place aloe vera under bright sunlight.",
+      "Water": "It’s similar to a cactus. So, please refrain from watering the plant every day. You can water them every 3 days in summer and in more intervals in winter.", "Temperature and Humidity":"Aloe plants like it warm, so their ideal temperature is between 55 degrees Fahrenheit and 85 degrees Fahrenheit. If it gets too cold, the leaves will turn yellow or pucker."
+    }
+  },
+  { 
+    "id": 3,
+    "name": "Ferns Plant",
+    "image": "/Images/plants/Ferns.jpg",
+    "price": "250",
+    "common_name": "Fern",
+    "plant_type": "Non-flowering vascular plants",
+    "mature_size": "1–1.2 cm",
+    "sun_exposure": "Partly shade",
+    "soil_type": "neutral to alkaline soil ",
+    "bloom_time": "summer",
+    "flower_color": "Yellow, Red",
+    "description": "Ferns have a special ability to purify the air. These small plants for home are eccentrically beautiful and need regular watering with the right amount of sunlight. You should know that they do not bear flowers or seeds. However, they are the best indoor plants for oxygen in india.",
+    "care": {
+      "Soil": "Choose soil for ferns that have high organic content as it needs a moist base to grow.",
+      "Light": "It thrives in low light so choose an area that has partial sunlight peeking in!",
+      "Water": " It is tricky. Water moderately. Not too much. Not too less.", 
+      "Temperature_Humidity":"Room temperatures which are comfortable for people are usually too warm for ferns. Daytime temperatures for successful fern growth should not exceed 72AF. Night- time temperatures should be on the cool side, below 60AF."
+    }
+  },
+  { 
+    "id": 4,
+    "name": "Monstera Plant",
+    "image": "/Images/plants/Monstera.jpg",
+    "price": "130",
+    "common_name": " Swiss cheese plant",
+    "plant_type": "vine",
+    "mature_size": "10 – 15 feet tall ",
+    "sun_exposure": "Part shade",
+    "soil_type": "neutral to alkaline soil ",
+    "bloom_time": " Rarely flowers indoors",
+    "flower_color": "Yellow, Red",
+    "description": "Monstera Deliciosa grows better in a humid, warm environment. As the name indicates, these monstrous plants can grow very large, therefore they’re ideal for your small balcony design or garden as well. Plus, they are the best indoor plants for oxygen in India and you can definitely go for it.",
+    "care": {
+      "Soil": "Choose a soil that drains water well. Use a porous pot",
+      "Light": "It can live under low-light conditions. However, the growth may be slow. So, you can place it somewhere where it can get indirect sunlight",
+      "Water": "Choose a soil that drains water well. Use a porous pot", 
+      "Temperature_Humidity":"The Monstera will grow in most household temperatures, but a temperature between 65-85℉ is ideal. They can survive in temperatures as low as 50℉, but the cold temperature will stop growth."
+    
+    }
+  },
+  
+  { 
+    "id": 5,
+    "name": "Peace Lily",
+    "image": "/Images/plants/Peace Lily.jpg",
+    "price": "295",
+    "common_name": "Peace lily, spath lily",
+    "plant_type": "Perennial",
+    "mature_size": "1–4 ft. tall, 1–4 ft. wide (indoors), up to 6 ft. tall (outdoors)",
+    "sun_exposure": "Partial",
+    "soil_type": "Moist but well-drained",
+    "bloom_time": "Spring",
+    "flower_color": "White, yellow",
+    "description": "The graceful white spathes of the peace lily have long been rendered in silk plants, but there's no reason to go fake when the living specimens of Spathiphyllum are so easy to grow. Peace lilies do well in low light but need regular moisture.",
+    "care": {
+      "Soil": "Peace lilies like a rich, loose potting mix that contains plenty of organic matter. These plants are native to tropical canopy conditions where the soil is packed with deteriorating plant material, so you'll find the best success with soil that mimics this composition. Additionally, the plant is also very sensitive to too-damp soil conditions, so be sure to choose a well-draining mixture.",
+      "Light": "A peace lily needs sunlight, though not direct sun. They are shade-loving plants in their native habitats. But peace lilies indoors need a bit more filtered light. (Some varieties can withstand more light than others.) An east-facing window is a prime spot to place a peace lily in your house.",
+      "Water": "Peace lilies prefer being under-watered rather than overwatered. How often you should water a peace lily depends on container size and how fast the soil drains, but, in general, water when the top inch of soil has dried out. In winter, reduce watering but never allow the soil to dry out completely. If your water at home is highly chlorinated, it's a good idea to use filtered or distilled water. Alternatively, you can allow tap water to sit for several days until the chlorine evaporates.",
+      "Temperature_Humidity":"These plants prefer moist warmth. Avoid cold drafts and temperatures that fall below 55 degrees Fahrenheit; the plant will die when exposed to prolonged cold temperatures. The ideal temperature range for your peace lily is 65 to 80 degrees Fahrenheit. Spritz the leaves every week with softened or distilled water throughout the summer growing season to raise humidity."
+    }
+  }  ,
+  { 
+    "id": 6,
+    "name": "Jade Plant",
+    "image": "/Images/plants/Jade Plant.jpg",
+    "price": "299",
+    "common_name": "Jade plant",
+    "plant_type": "Succulent, perennial",
+    "mature_size": "3–6 ft. tall, 2–3 ft. wide",
+    "sun_exposure": "Full sun",
+    "soil_type": "Well-drained",
+    "bloom_time": "Spring",
+    "flower_color": "White",
+    "description": "The jade plant is a popular succulent houseplant with simple indoor care requirements and a very long lifespan of up to 70 years with the proper care. This plant is slow-growing—gaining only about two inches of height per year, but it can reach a total height between three and six feet.",
+    "care": {
+      "Soil": "When choosing a potting mix for your jade plant, a succulent-specific blend is your best bet. Compared to all-purpose potting soil, potting soil for succulents is looser to facilitate draining and prevent moisture retention, which can lead to fungal growth.",
+      "Light": "Jade plants need a lot of light, at least six hours of bright indirect sunlight per day. The type of light is important since direct sunlight can be too harsh and cause the leaves to shrivel and burn, especially for young jade plants. However, too little light can cause problems too. In low-light conditions, the jade plant will have leggy growth that causes the plant to become weak and topple over—rather than maintaining a full, bushy appearance.",
+      "Water": "The watering needs of a jade plant vary throughout the year. The jade plant grows actively during the spring and summer months and is usually dormant in the winter months. It’s important to pay attention to the needs of the plant since overwatering is one of the quickest ways to kill a succulent. In its native desert climate, this type of plant is used to receiving deep watering followed by a period of drought. So overwatering the succulent introduces more water into the root environment than the plant can handle, creating conditions ripe for root rot.",
+      "Temperature_Humidity":"Jade plants prefer average household temperatures ranging from 65 to 75 degrees Fahrenheit. At night and in the winter, jade plants can handle a cooler environment, down to 55 degrees Fahrenheit, though they should never be kept in temperatures below 50 degrees Fahrenheit for any prolonged period of time. "
+    }
+  }
+  ,
+  { 
+    "id": 7,
+    "name": "African Violet",
+    "image": "/Images/plants/African Violet.jpg",
+    "price": "500",
+    "common_name": "African violet",
+    "plant_type": "Perennial",
+    "mature_size": "6-9 in. tall, 6-9 in. wide",
+    "sun_exposure": "Partial",
+    "soil_type": "Well-drained but moist",
+    "bloom_time": "Spring, summer, fall, winter",
+    "flower_color": "White, pink, red, blue, purple",
+    "description": "African violets are one of the world's most popular houseplants and for good reason. These compact, low-growing plants flower several times a year, and they are available in a multitude of leaf forms and colors. African violets are distinguished by a rosette of thick, fuzzy leaves and violet-like flowers that bloom just above the evergreen foliage.",
+    "care": {
+      "Soil": "A well-drained potting mix is essential for African violets. Poor drainage can cause root rot, in which the plant becomes waterlogged and its leaves begin to fall, so make sure that the plant is never allowed to be exposed to standing water for an extended period of time.",
+      "Light": "African violets do well in bright but not direct sunlight. They are commonly grown under fluorescent lights placed 12 to 15 inches above the leaves. If the leaves start getting light green, your plant is getting too much light, while thin and dark green leaves or a leggy plant indicate too little light.",
+      "Water": "Keep soil moist with warm water and strive for high humidity. Do not allow water to contact the leaves of the plant to prevent damage, other than light misting. Water from below, or push the water spout into the soil when watering. Don't allow the plant to sit in water.",
+      "Temperature_Humidity":"African violets like warm and humid conditions and thrive at 70 degrees Fahrenheit. Do not allow the temperature to fall below about 60 degrees Fahrenheit. Do your best to keep the plants away from any drafts in the home."
+    }
+  }
+  ,
+  { 
+    "id": 8,
+    "name": "Kalanchoe",
+    "image": "/Images/plants/Kalanchoe.jpg",
+    "price": "500",
+    "common_name": "Kalanchoe, flaming Katy, florists kalanchoe, Christmas kalanchoe",
+    "plant_type": "Perennial, succulent",
+    "mature_size": "6–18 in. tall and wide",
+    "sun_exposure": "Full sun, partial shade",
+    "soil_type": "Sandy, well-drained",
+    "bloom_time": "Seasonal bloomer; requires six weeks of 14-hour nights in winter to reset its bloom cycle",
+    "flower_color": "Yellow, red, orange, salmon, pink, white",
+    "description": "Kalanchoe is a genus that includes more than 100 species of plants native to Madagascar. Kalanchoe plants are known for their succulent, oval-shaped, often scallop-edged green leaves. Some varieties develop red leaves or leaf edges when grown with sufficient sunlight. The most common houseplant species is Kalanchoe blossfeldiana, which blooms with clusters of tiny, colorful flowers in shades of red, pink, yellow, orange, salmon, and white.",
+    "care": {
+      "Soil": "Outdoors, a kalanchoe plant grows best in well-drained, loamy or sandy soil. Indoor plants should be potted in a blend that doesn't retain too much moisture, like a 50 percent potting soil and 50 percent cactus mix, or 60 percent potting soil and 40 percent perlite. To ensure proper drainage and avoid an overly moist environment, you can plant your kalanchoe in a clay pot, which can help wick excess water from the soil.",
+      "Light": "Kalanchoe plants grown indoors do best with bright, indirect light. Plant outdoor kalanchoes in partial shade to full sun. When planted in full sun, it's ideal for it to receive some afternoon shade to protect it from scorching. Leggy stems are a sign that the plant isn't receiving enough light.",
+      "Water": "If you have a habit of occasionally forgetting to water your plants, a kalanchoe can be the perfect plant for you. This hardy plant does well with minimal water, requiring saturation only every few weeks or so (and even less often during the winter months). Let the soil dry out completely in between waterings to help prevent root rot. Because the kalanchoe is a succulent, its leaves are actually capable of storing water; even if you're a few days late watering, the plant will be just fine.",
+      "Temperature_Humidity":"Your household environment is important to the kalanchoe, though it's not as fussy as other indoor houseplants. Generally, it will thrive at temperatures ranging from 55 to 80 degrees Fahrenheit, so, with the exception of protecting it from frost, you don't have to do much to create the proper indoor environment. Kalanchoe plants are not fussy about air moisture levels."
+    }
+  }
+  ,
+  { 
+    "id": 9,
+    "name": "Anthurium",
+    "image": "/Images/plants/Anthurium.jpg",
+    "price": "700",
+    "common_name": "Anthurium, tailflower, flamingo flower, laceleaf",
+    "plant_type": "Herbaceous, perennial",
+    "mature_size": "12-18 in. tall, 9- to 12-inch wide",
+    "sun_exposure": "Partial",
+    "soil_type": "well-drained",
+    "bloom_time": "Spring, summer, fall, winter",
+    "flower_color": "Red, pink, white",
+    "description": "These plants have distinctive red flower structures that feature a heart-shaped red spathe from which emerges a white or yellow flower spike. Anthuriums are true jungle plants, which makes them a challenge to grow and bloom in ordinary conditions. They thrive on humidity, heat, ample water, bright light, and rich soil. Most anthuriums are purchased already in bloom, and it takes a skillful hand to bring one back into flower.",
+    "care": {
+      "Soil": "Anthuriums prefer a coarse, well-draining potting mix. An orchid mix with additional sand and peat moss mixed in makes perfect soil for anthuriums.",
+      "Light": "Indoors or out, anthuriums like sun more than shade. They grow best in bright, indirect light. Avoid direct sun.",
+      "Water": "The soil should be kept slightly moist and never allowed to dry out completely. Set the pot in a tray with rocks or gravel that has water. The plant's water can drain there and help keep humidity levels higher around the plant. Allow the top of the soil to dry out to the touch before watering again. Indoors, this is about once a week. If outside, during hot days, it can be every two or three days between waterings.",
+      "Temperature_Humidity":"All species of anthurium are native tropical plants, and mimicking those conditions will give you the best chances for success. This plant prefers high humidity and temperatures between 65 and 85 degrees Fahrenheit. These plants can be grown outside in zones 11 to 12 and will likely perish at temperatures of 40 degrees Fahrenheit or less."
+    }
+  }
+  ,
+  { 
+    "id": 10,
+    "name": "Dumb Cane",
+    "image": "/Images/plants/Dumb Cane.jpg",
+    "price": "130",
+    "common_name": "Dieffenbachia, dumb cane",
+    "plant_type": "Herbaceous, perennial",
+    "mature_size": "3–10 ft. tall, 2–3 ft. wide",
+    "sun_exposure": "Partial",
+    "soil_type": "well-drained",
+    "bloom_time": "Spring, summer",
+    "flower_color": "White",
+    "description": "The common name 'dumb cane' doesn't do much to describe the elegant Dieffenbachia, which exhibits large speckled and splotched leaves in humid areas with bright light. Provide moderate moisture, and keep the toxic leaves away from kids and pets.",
+    "care": {
+      "Soil": "Use a fast-draining, well-aerated potting mix. Make sure drainage is good to avoid damaging the roots; they should never be left in soggy soil.",
+      "Light": "Dieffenbachia plants are popular indoor plants largely because they do well in shady conditions, but these plants do appreciate bright light during the winter months. During the growing season, the plant prefers dappled shade or indirect light. The plant will favor the side facing the light, so periodically rotate the plant to keep its growth balanced.",
+      "Water": "During the growing season, dieffenbachias like regular moisture and do not want to dry out. A large dieffenbachia might need to be watered twice a week. In the winter, you can cut back on the water. At the same time, it's important not to overwater a dieffenbachia, which can cause rot problems. Make sure the top of the soil is fully dried out before watering.",
+      "Temperature_Humidity":"This plant likes fairly warm conditions, from 65 degrees to 75 degrees Fahrenheit. If the temperature drops below 60 degrees or if the plant is exposed to cold drafts, it is likely to lose lower leaves and assume a palm-like appearance. The plant appreciates high humidity."
+    }
+  }
+  ,
+  { 
+    "id": 11,
+    "name": "Umbrella",
+    "image": "/Images/plants/Umbrella.jpg",
+    "price": "500",
+    "common_name": "Schefflera, umbrella plant, umbrella tree",
+    "plant_type": "Broadleaf evergreen",
+    "mature_size": "4 to 6 feet. tall, 3 to 6 feet wide (indoors); up to 25 feet tall (outdoors)",
+    "sun_exposure": "Bright, indirect light",
+    "soil_type": "Rich and moderately moist",
+    "bloom_time": "Summer (outdoors)",
+    "flower_color": "White, pink, or red (indoor plants rarely bloom)",
+    "description": "If you have a yen for tropical plants, check out the Heptapleurum arboricola4, which can grow up to ten feet tall in the jungles of Taiwan. You can check this growth in containers, especially with slow-growing variegated cultivars like 'Gold Capella' or 'Sunburst.'",
+    "care": {
+      "Soil": "If growing indoors, plant Schefflera in a rich, loose, well-drained potting soil. When grown outdoors, a well-draining, sandy loam soil with a slightly acidic pH is ideal. Avoid planting in an outdoor location where the soil becomes too wet or waterlogged.",
+      "Light": "Schefflera prefers bright, indirect light. In the summer, move potted plants outside where they will receive bright light but not direct sun, such as under a patio cover. A Schefflera plant that gets leggy or floppy might not be receiving enough light. Never place a Schefflera in direct, full sunlight because the intense sun can burn the leaves.",
+      "Water": "Water regularly during the growing season and spray the leaves with water frequently. Wait until the soil in the pot dries out and then give it a deep and thorough soaking. Cut back on water during the winter months. Overwatering a Schefflera plant will eventually kill it. Yellow and dropped leaves are a sign that you might be watering too much.",
+      "Temperature_Humidity":"Because it is a tropical plant, Schefflera requires fairly high humidity and tropical temperatures; it will suffer in temperatures lower than 60 degrees Fahrenheit. Do not expose these plants to drafts or dry heating vents. An underwatered or cold Schefflera will begin to drop leaves quickly, so take leaf-drop seriously and correct the issue if it occurs. If the plant loses all of its leaves, you can attempt to save the plant by moving it outdoors in the spring and watering generously."
+    }
+  }
+  ,
+  { 
+    "id": 12,
+    "name": "Croton",
+    "image": "/Images/plants/Croton.jpg",
+    "price": "120",
+    "common_name": "Croton, garden croton",
+    "plant_type": "Shrub",
+    "mature_size": "3–8 ft. tall, 3–6 ft. wide",
+    "sun_exposure": "Full, partial",
+    "soil_type": "Moist, well-drained",
+    "bloom_time": "Spring, summer, fall, winter",
+    "flower_color": "Yellow",
+    "description": "Codiaeum plants offer that colorful pow that neutral gray or taupe rooms need. Bright light is essential for good leaf coloration and plant health. Leaf form varies from paddle-like to grassy and narrow, but all have stripes or splotches of yellow, red, orange, or pink.",
+    "care": {
+      "Soil": "A well-drained, moist soil that has been enriched with compost is ideal. This plant prefers humus-rich, acidic soil.",
+      "Light": "Croton plants need a fair amount of sun. Bright, indirect light is best. Some croton plant varieties don't tolerate unfiltered, direct sun as well as others, but they will thrive in dappled sunlight. If the plant is getting insufficient sun, the leaves will turn green.",
+      "Water": "Keep croton plants evenly moist in the summer. Crotons need about 1 inch of water per week. Reduce watering in the winter to biweekly. Watch the plant for signs that it needs more water, such as wilting young foliage. Increase watering if the wilting noticeably happens during hot weather, but check the top couple of inches of soil with a finger for moisture before you increase water. If it's still moist, hold off on watering. Mist frequently during the growth period.",
+      "Temperature_Humidity":"For croton plants indoors, keep the room above 60 degrees Fahrenheit, and do not expose the plant to cold drafts. Humidity, along with a lack of bright light, can affect leaf color. Keep the humidity level at 40 to 80 percent. If the humidity isn't high enough, the plant might drop some of its leaves. If you have trouble maintaining the moisture in your home at this level, run a humidifier in the room or set a humidity tray beneath the plant and group it with other plants."
+    }
+  },
+  { 
+    "id": 13,
+    "name": "Bulbous Air Plant",
+    "image": "/Images/plants/Bulbous Air.jpg",
+    "price": "350",
+    "common_name": "Bulbous Air Plant",
+    "plant_type": "perennial herbaceous",
+    "mature_size": "4–7 inches",
+    "sun_exposure": "Bright, indirect light or part shade",
+    "soil_type": "None",
+    "bloom_time": "Once per lifetime",
+    "flower_color": "Violet",
+    "description": "The bulbous air plant is an otherworldly looking species that features tendrils that appear from a prominent bulb at the base. This is, of course, where it gets both its botanical name and its common name.The leaves of bulbousa are a dark green that turn a really lovely violet when the plant is ready to bloom. Don't expect a floral display every year, though, as it only flowers once in its lifetime. Once it blooms it then offsets pups and will clump or can be separated from the mother plant.",
+    "care": {
+      "Soil": "Placing the plant in soil is actually going to harm it as it will cause moisture to remain in its hollow bulb and create the opportunity for rot. ",
+      "Light": "Tillandsia bulbosa is very adaptable to light and partial shade. It does not particularly like bright sun and would prefer indirect light and partial shade, but it is a flexible plant",
+      "Water": "Watering a bulbosa is an easy task. Air plants differ from other plants in how they absorb water as they do not use their root system. Their roots are mainly used to secure them to other plants or rocks. Instead, along the leaves of tillandsias are tiny hair-like structures called trichomes and this is how they take in moisture.",
+      "Temperature_Humidity":"The Tillandsia bulbosa is native to the humid climates of South and Central America. It likes a moist environment and this can be achieved with regular, light mistings. The temperature is flexible as long as it remains above 55o Fahrenheit. "
+    }
+  },
+  {
+    "id": 14,
+    "name": "Areca Palm",
+    "image": "/Images/plants/Areca Palm.jpg",
+    "price": "250",
+    "common_name": "Areca palm, bamboo palm, golden cane palm, yellow palm",
+    "plant_type": "Palm or cycad",
+    "mature_size": "12-30 feet tall outdoors with a crown spread of 10-20 feet; 8 feet tall indoors",
+    "sun_exposure": "Full to partial sun",
+    "soil_type": "Moist, well-drained",
+    "bloom_time": "Summer",
+    "flower_color": "Pale yellow",
+    "description": "Areca Palm can be used for both indoor and outdoor home gardening. These are some common house plants that need little attention and care for growth and tend to grow up to seven ft indoor and much higher outside. The areca palm indoor plant is among the easy-growing plants at home.",
+    "care": {
+      "Soil": "Choose acidic soil that helps drain the water properly. You can also mix it up with a portion of the builder’s sand. This way, it will not become clay-like.",
+      "Light": "Areca palm lives in low-light conditions. So, you can choose a spot that has partial natural sunlight.",
+      "Water": "Don’t let water sit in it or else roots can rot easily. Plus, you can use drinkable water so it doesn’t develop freckles on the leaves!",
+      "Temperature_Humidity":"Temperature: Average room temperatures of 65-75 degrees F. (18-24 degrees C). Keep the leaves away from cold windows, air conditioners, and heat sources. Areca palms are sensitive to low temperatures so if you place it outside during the summer be sure to bring it in before temperatures dip below 50 degrees."
+    }
+  },{ 
+    "id": 15,
+    "name": "Spider Plant",
+    "image": "/Images/plants/Spider Plant.jpg",
+    "price": "299",
+    "common_name": "Spider plant, spider ivy, ribbon plant",
+    "plant_type": "Herbaceous, perennial",
+    "mature_size": "1–2 ft. tall and wide",
+    "sun_exposure": "Partial, shade",
+    "soil_type": "Loamy, well-drained",
+    "bloom_time": "Flowers regularly",
+    "flower_color": "White",
+    "description": "Spider plants are often grown in containers as hanging plants due to the cascading nature of their foliage and their long stems with plantlets. They also look great when grown atop columns. If you place their container on a shelf or table, make sure the long leaves aren’t getting crushed and the long plantlet stems don’t get so heavy that they pull over the pot.",
+    "care": {
+      "Soil": "These plants can grow in a variety of soil types, but they favor loose, loamy soil with sharp drainage. Spider plant prefers a fairly neutral soil pH but can tolerate slightly acidic to slightly alkaline soil. A high level of salts in the soil can cause the leaf tips to turn brown.",
+      "Light": "Outdoors, spider plants prefer to grow in light shade. They can tolerate heavy shade, but their growth won't be as robust. Direct sunlight can scorch the leaves. Indoors, a bright window or patio door that gets indirect sun is ideal.",
+      "Water": "Spider plants like lightly moist but not soggy soil. Overwatering can cause root rot and ultimately kill the plant. These plants are sensitive to fluoride and chlorine in water, which can brown the leaf tips.1 So if possible, use rainwater or distilled water for container plants. The fleshy tubers retain moisture well, so inconsistent watering, while not ideal, won't harm spider plants too much.", 
+      "Temperature_Humidity":"It prefers temperatures around 24-27℃ (75-80℉) during the day and 16-21℃ (60-70℉) at night, with high humidity. During winter, it can tolerate temperatures around 10-13℃ (50-55℉) but avoid temperatures below 7℃ (45℉). Spider plant is extremely heat-loving, and any cold temperatures can cause harm to it."
+    
+    }
+  },
+  { 
+    "id": 16,
+    "name": "Bromeliad",
+    "image": "/Images/plants/Bromeliad.jpg",
+    "price": "400",
+    "common_name": "Bromeliad",
+    "plant_type": "Perennial",
+    "mature_size": "Varies by genera and species",
+    "sun_exposure": "Partial",
+    "soil_type": "well-drained",
+    "bloom_time": "Blooms once; timing varies",
+    "flower_color": "Red, green, purple, orange, yellow",
+    "description": "In their native habitat, plants in the Bromeliaceae family grow as epiphytes nestled in trees. That means two things for their care: they like filtered light, and good aeration around their roots. Orchid potting medium works well. Fill their stiff leaves with distilled water to further mimic nature's way.",
+    "care": {
+      "Soil": "Plants that turn yellowish might be getting too much light, while dark green or elongated plants might receive too little light. Increasing light exposure can help the plant bloom, provided the other conditions are appropriate.",
+      "Light": "Provide bright, indirect light unless you know your bromeliad prefers a different light level. Other genera of bromeliads are tolerant of varying levels of light. Generally, varieties with soft, flexible, spineless leaves usually prefer lower light levels, while those with stiff, hard leaves prefer bright indirect light. Some can even withstand full tropical sun, while others will quickly scorch.",
+      "Water": "Although native to tropical, moist environments, some bromeliads are very tolerant of drought conditions, but they prefer moist, not soggy, soil. In a typical house, it's usually not necessary to keep the central cup of the plant constantly filled with water. But this is an option if the light levels and temperature are high. If you do centrally water your bromeliad, make sure to flush the central cup every so often to remove any built-up salts. But in general, it's enough to water these plants very sparingly through the soil weekly during the growing season and reduce watering during the winter rest period. Never let the plant rest in standing water, as bromeliads are prone to root rot.",
+      "Temperature_Humidity":"Bromeliads are tolerant of temperature variations, but most bromeliads need protection from cold. If you want to add these plants to your landscape but live in a climate with freezing temperatures, consider planting bromeliads in pots that can be brought inside in winter. Bromeliads prefer temperatures between 60 and 85 degrees Fahrenheit. Though some cold-hardy types can survive temperatures down to 20 degrees, they should generally not be exposed to temperatures under 40 degrees.1 They grow well indoors in 40-50 percent humidity. In many climates, bromeliads can be moved outdoors during the summer. Remember: bromeliads are native to tropical, humid, shady forest floors or grown in trees. Try to mimic those conditions for your plants."
+    }
+  }
+  
+  
+ ]
